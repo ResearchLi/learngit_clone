@@ -6,3 +6,9 @@ git is very useful.
 ready to learn how stage work.
 
 git tracks changes,not files.
+
+
+first modify.
+
+
+second modify.
